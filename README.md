@@ -1,3 +1,3 @@
 # myrepo
-My first repo
+My first repo.
 A line written on my local computer.
